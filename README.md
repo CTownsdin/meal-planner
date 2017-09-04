@@ -2,5 +2,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 An app for learning react-redux.
 
-`$ npm install`
+`$ npm install`    
 `$ npm start`
